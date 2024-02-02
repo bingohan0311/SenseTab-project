@@ -6,7 +6,7 @@ PCB/ - the circuit design of SenseTab node
 
 MCU/ - the MCU code of SenseTab node
 
-Mechanical/ - the solidwork design file of the shell of the EcoCapsule node
+Manufacturing / - the solidwork design file of the mould and electrode of the SenseTab node
 
 Reader/ - the Matlab code for transmitting FSK downlink command and decoding the uplink backscatter signals
 
